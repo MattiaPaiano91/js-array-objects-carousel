@@ -58,9 +58,14 @@
 }
 
 .left{
-  left: 0;
-  bottom: 10%;
+  left: 50%;
+  bottom: 80%;
   margin-left: 5px;
+  transform: translate(-50%);
+}
+
+.left button{
+  padding: 10px;
 }
 
 
